@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>あそびかた</title>
+<title>スロットゲーム</title>
 </head>
 
 <body>
@@ -13,5 +13,9 @@
 	<p>・所持金が30000以上になったらClear</p>
 	<p>・１スロット1000クレでゲーム開始です</p>
 	<p>ギャンブルなどは依存症になりやすいので自分ルールを決めて適度に遊びましょう</p>
+	
+	<form action="main.php" method="get" />
+  	<input type="submit" value="もどる">
+</form>
 </body>
 </html>
