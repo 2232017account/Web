@@ -1,3 +1,8 @@
+<?php
+session_start();
+//ゲームの状態をリセット
+session_destroy();
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
